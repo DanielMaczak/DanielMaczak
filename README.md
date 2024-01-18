@@ -1,4 +1,10 @@
-## Technologies I work/ed with professionally
+## Professional summary
+
+- Advanced VBA tool developer since 2017.
+- SQL and Power BI reporting developer since 2020.
+- Software developer since 2023.
+
+## Tech I worked with
 
 ![Lang](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Lang](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,4 +30,5 @@
 
 ![Frame](https://img.shields.io/badge/Power_BI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=gray)
 ![Frame](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Frame](https://img.shields.io/badge/UiPath-D83B01?style=for-the-badge)
 
