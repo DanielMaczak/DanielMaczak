@@ -7,7 +7,6 @@
 
 ![Lang](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Lang](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Lang](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![Lang](https://img.shields.io/badge/Power_query-F7DF1E?style=for-the-badge)
 ![Lang](https://img.shields.io/badge/DAX-593D88?style=for-the-badge)
