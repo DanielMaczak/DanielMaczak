@@ -1,11 +1,11 @@
-## Professional summary
+## 📃 Professional summary
 
 I'm a full-stack developer from Czech Republic. I wrote my first code 15 years ago and I have 7+ years of professional working experience in programming:
-- Advanced VBA tool developer since 2017.
-- SQL and Power BI reporting developer since 2020.
-- Software developer since 2023.
+- Advanced VBA tool developer since 2017. 💾
+- SQL and Power BI reporting developer since 2020. ⌨️
+- Software developer since 2023. 💻
 
-## Tech I worked with
+## ⚙️ Tech I worked with
 
 ![Lang](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Lang](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
