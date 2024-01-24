@@ -1,9 +1,10 @@
 ## 📃 Professional summary
 
-I'm a full-stack developer from Czech Republic. I wrote my first code 15 years ago and I have 7+ years of professional working experience in programming:
-- Advanced VBA tool developer since 2017. 💾
-- SQL and Power BI reporting developer since 2020. ⌨️
-- Software developer since 2023. 💻
+I'm a full-stack software developer from Czech Republic. I wrote my first code more than 15 years ago and I have overall 7+ years of professional working experience in programming:
+- Advanced VBA applications 💾
+- SQL and Power BI reports ⌨️
+- Web applications in JavaScript, HTML and CSS 💻
+- Software automation processes 🦾
 
 ## ⚙️ Tech I worked with
 
